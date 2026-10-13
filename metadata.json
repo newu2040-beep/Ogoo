@@ -1,0 +1,6 @@
+{
+  "name": "OGOO",
+  "description": "Professional photo editor featuring liquid glass design, 110+ camera LUTs, non-destructive color grading, and high-resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
